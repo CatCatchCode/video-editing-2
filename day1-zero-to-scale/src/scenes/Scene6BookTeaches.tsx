@@ -171,3 +171,4 @@ export const Scene6BookTeaches: React.FC = () => {
     </div>
   );
 };
+

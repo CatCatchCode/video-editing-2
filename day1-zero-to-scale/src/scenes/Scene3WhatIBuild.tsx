@@ -176,3 +176,4 @@ export const Scene3WhatIBuild: React.FC = () => {
     </div>
   );
 };
+

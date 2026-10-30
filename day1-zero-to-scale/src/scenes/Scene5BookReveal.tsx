@@ -96,3 +96,4 @@ export const Scene5BookReveal: React.FC = () => {
     </div>
   );
 };
+

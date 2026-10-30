@@ -142,3 +142,4 @@ export const ParticleBackground: React.FC<{ accent?: "cyan" | "violet" | "gold" 
     </div>
   );
 };
+

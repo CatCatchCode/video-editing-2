@@ -239,3 +239,4 @@ export const Book3D: React.FC<Book3DProps> = ({ scale = 1 }) => {
     </div>
   );
 };
+

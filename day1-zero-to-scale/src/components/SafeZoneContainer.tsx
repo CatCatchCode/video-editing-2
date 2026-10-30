@@ -31,3 +31,4 @@ export const SafeZoneContainer: React.FC<SafeZoneContainerProps> = ({
     </div>
   );
 };
+

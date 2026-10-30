@@ -174,3 +174,4 @@ export const Scene2Intro: React.FC = () => {
     </div>
   );
 };
+

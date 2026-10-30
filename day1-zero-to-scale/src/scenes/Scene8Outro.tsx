@@ -188,3 +188,4 @@ export const Scene8Outro: React.FC = () => {
     </div>
   );
 };
+

@@ -13,7 +13,7 @@ export const CONFIG = {
     scene5BookReveal: 390,  // 13.0s: Day 1 Hero Reveal "Zero to Scale"
     scene6BookTeaches: 300, // 10.0s: 5 Value Pillars
     scene7CTA: 240,         // 8.0s: Amazon Kindle CTA & Link
-    scene8Outro: 150,       // 5.0s: "This is just the beginning"
+    scene8Outro: 195,       // 6.5s: "This is just the beginning"
     transitionDuration: 15, // 0.5s overlap between scenes
   },
 
@@ -55,3 +55,4 @@ export const CONFIG = {
     journeyDay: "DAY 01 / 30",
   },
 };
+
